@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 2499,
+    "category": "Electronics",
+    "rating": 4.5,
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e",
+    "description": "Comfortable wireless headphones with clear sound and long battery life."
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 3999,
+    "category": "Electronics",
+    "rating": 4.3,
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30",
+    "description": "Smart watch with fitness tracking, notifications and health features."
+  },
+  {
+    "id": 3,
+    "name": "Running Shoes",
+    "price": 2999,
+    "category": "Fashion",
+    "rating": 4.6,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff",
+    "description": "Lightweight running shoes designed for comfort and daily workouts."
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 1499,
+    "category": "Fashion",
+    "rating": 4.2,
+    "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62",
+    "description": "Durable backpack suitable for college, travel and everyday use."
+  },
+  {
+    "id": 5,
+    "name": "Coffee Maker",
+    "price": 3499,
+    "category": "Home",
+    "rating": 4.4,
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085",
+    "description": "Easy-to-use coffee maker for preparing fresh coffee at home."
+  },
+  {
+    "id": 6,
+    "name": "Desk Lamp",
+    "price": 999,
+    "category": "Home",
+    "rating": 4.1,
+    "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c",
+    "description": "Modern desk lamp with adjustable lighting for study and work."
+  },
+  {
+    "id": 7,
+    "name": "Gaming Mouse",
+    "price": 1299,
+    "category": "Electronics",
+    "rating": 4.7,
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db",
+    "description": "Responsive gaming mouse with precise tracking and comfortable grip."
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 799,
+    "category": "Fashion",
+    "rating": 4.0,
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083",
+    "description": "Stylish sunglasses suitable for everyday outdoor use."
+  }
+]
