@@ -195,3 +195,53 @@ nav a {
     gap: 10px;
   }
 }
+/* Dark theme */
+
+.dark {
+  min-height: 100vh;
+  background: #111827;
+  color: white;
+}
+
+.dark .page h1,
+.dark .cart-page h1,
+.dark .details h1 {
+  color: white;
+}
+
+.dark .product-card,
+.dark .cart-page,
+.dark .details {
+  background: #1f2937;
+  color: white;
+}
+
+.dark .controls input,
+.dark .controls select {
+  background: #1f2937;
+  color: white;
+  border-color: #555;
+}
+
+/* Light theme */
+
+.light {
+  min-height: 100vh;
+  background: #f5f5f5;
+  color: #222;
+}
+
+.light .product-card,
+.light .cart-page,
+.light .details {
+  background: white;
+  color: #222;
+}
+
+nav button {
+  margin-left: 20px;
+  padding: 8px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
